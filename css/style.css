@@ -238,7 +238,7 @@ body {
 
 #darkModeToggle {
   position: fixed;
-  top: 20px;
+  bottom: 20px;
   right: 20px;
   padding: 10px 15px;
   background-color: #24b67e;
